@@ -1,0 +1,25 @@
+{
+  "name": "alura-formacaofrontend-apirestmongodb",
+  "version": "1.0.0",
+  "description": "Alura - Formação FrontEnd - NodeJS: Criando uma API Rest com Express e MongoDB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosanobre/alura-formacaoFrontEnd-ApiRestMongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosanobre/alura-formacaoFrontEnd-ApiRestMongoDB/issues"
+  },
+  "homepage": "https://github.com/marcosanobre/alura-formacaoFrontEnd-ApiRestMongoDB#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
